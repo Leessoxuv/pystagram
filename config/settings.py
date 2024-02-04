@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-2ub10h6*snrzw_=p*8z#72_)#p(5ptr!%&o^76u!qa4f(%ihku
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*", ".mypystagram.shop",]
 
 
 # Application definition
